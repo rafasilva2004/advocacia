@@ -79,4 +79,7 @@
 		</dependency>
 
 	</dependencies>
+	<build>
+		<finalName>advocacia</finalName>
+	</build>
 </project>
